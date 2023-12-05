@@ -19,7 +19,6 @@
 	- **Spam Filtering:**
 		- Utilize a spam filter, either cloud-based or on-site.
 		- Mail gateway filters messages before reaching the internal mail server.
-
 	- **Characteristics Considered by Spam Filter:**
 		- Allowed list for trusted senders.
 		- RFC compliance checks to ensure adherence to email standards.
