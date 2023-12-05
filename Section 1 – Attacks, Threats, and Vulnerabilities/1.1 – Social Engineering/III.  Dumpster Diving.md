@@ -1,16 +1,21 @@
 - **Introduction:**
 	- When exploring IT security, one may not have envisioned spending time inside a garbage bin, yet Dumpster diving is a valid method for extracting critical information discarded in the trash.
+
 - **Dumpster Diving Concept:**
 	- The term originates from the United States, where the receptacle is trademarked as a Dumpster. Other countries may refer to it as a rubbish skip or garbage disposal unit.
+
 - **Information in the Trash:**
 	- Personal details often end up in the trash, including monthly statements, business-related information, and communications from associates, friends, and family.
 	- Attackers exploit this by waiting for individuals to dispose of their trash and then collecting valuable information.
+
 - **Legalities of Dumpster Diving:**
 	- In the United States, Dumpster diving is generally considered legal unless local laws or regulations prohibit it.
 	- The legality is often based on the principle that once something is in the garbage, it's considered accessible to anyone nearby.
+
 - **Legal Considerations:**
 	- Check for signs like "no trespassing" or other restrictions before attempting Dumpster diving.
 	- While generally legal, nuances and legal gray areas exist, and consulting a legal representative is advisable.
+
 - **Preventive Measures:**
 	- Secure Your Garbage Area:
 		- Lock up and secure the garbage area, especially in large organizations.
@@ -20,6 +25,7 @@
 		- Shredders can automate this process.
 	- Incineration:
 		- In high-security environments, incineration may be employed to ensure complete destruction.
+
 - **Personal Security Awareness:**
 	- Regularly inspect the items you discard to ensure you're not inadvertently providing attackers with personal information.
 

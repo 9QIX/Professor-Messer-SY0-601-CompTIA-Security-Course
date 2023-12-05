@@ -1,20 +1,26 @@
 - **Introduction:**
 	- The information stored on your computer, including spreadsheets, documents, and presentations, can be crucial for your day-to-day work. Unbeknownst to you, this information might be valuable to others, and one method attackers use to gain access is called shoulder surfing.
+
 - **Shoulder Surfing Defined:**
 	- Shoulder surfing involves unauthorized individuals obtaining password information and details about the documents you're viewing on your computer by simply looking over your shoulder.
+
 - **Real-life Example:**
 	- *Scenario:* Traveling in airports and airplanes, observing individuals working on sensitive information in the row in front.
 		- *Observation:* Sitting directly behind allowed clear visibility of everything on their computer screen.
+
 - **Remote Shoulder Surfing:**
 	- In large cities or crowded areas, attackers could employ binoculars or telescopes from a distance, viewing computer screens even from another building.
+
 - **Security Measures:**
 	- **Awareness of Surroundings:**
 		- Important to be conscious of your surroundings wherever you're working on your computer.
 	- **Privacy Filters:**
 		- Privacy filters completely blacken the screen, making it visible only to the person directly in front of the computer.
 		- Example: On flights, individuals may use privacy filters to protect sensitive information from nearby passengers.
+
 - **Office Environment Considerations:**
 	- Position your monitor away from windows or hallways in an office setting to minimize the risk of shoulder surfing.
+
 - **Preventing Shoulder Surfing During Travel:**
 	- While on a flight, employ privacy filters and other methods to ensure the confidentiality of information on your screen.
 
