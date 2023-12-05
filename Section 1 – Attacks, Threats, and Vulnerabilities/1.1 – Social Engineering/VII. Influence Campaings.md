@@ -1,5 +1,3 @@
-## Social Media and Influence Campaigns
-
 - **Introduction:**
 	- Social media has significantly altered the landscape of public opinion, providing a platform for legitimate individuals and, at times, attackers aiming to manipulate public sentiment, often associated with nation-states attempting to influence elections and shape perspectives.
 
